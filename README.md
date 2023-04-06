@@ -1,2 +1,2 @@
 # neural-network
-neural network in java
+not finished yet
