@@ -3,7 +3,7 @@ Neural-network language classifier written in Java.
 
 PL
 ----
-Projekt stworzony bez implementacji zewnętrznych bibliotek. Program korzysta z perceptronów (neuronów) z dyskretną funkcją aktywacji, tworząc jednowarstwową sieć neuronową. Sieć służy do wykrywania języka dzięki uprzedniemu wstrzyknięciu do programu danych i nauczeniu każdego perceptrona na zasadzie "polski:inny".
+Projekt stworzony bez implementacji zewnętrznych bibliotek. Program korzysta z perceptronów (neuronów) z dyskretną funkcją aktywacji, tworząc jednowarstwową sieć neuronową. Sieć służy do wykrywania języka dzięki uprzedniemu wstrzyknięciu do programu danych i nauczeniu każdego perceptrona na zasadzie "polski:inny". W repozytorium znajduje się przykładowy folder treningowy.
 
 Aby skorzystać z programu, należy:
 
@@ -14,7 +14,7 @@ Aby skorzystać z programu, należy:
 
 ENG
 ----
-Project created without external library implementation. This program uses perceptrons with a discrete activation function (neurons) to create a single-layer neural network. It is then used to detect language by injecting data into the program beforehand and training each perceptron on the principle of "english:other".
+Project created without external library implementation. This program uses perceptrons with a discrete activation function (neurons) to create a single-layer neural network. It is then used to detect language by injecting data into the program beforehand and training each perceptron on the principle of "english:other". This repository contains a sample training folder.
 
 To use the program, follow these steps:
 
