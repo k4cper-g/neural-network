@@ -1,0 +1,9 @@
+Si el artículo o recurso se eliminó mediante el mecanismo de borrado rápido o el de propuesta de borrado, puede haberse tratado de un error. Deberías consultar primero al bibliotecario que lo borró si parece que lo ha hecho por error. Un artículo restaurado por esta vía puede enviarse a consulta de borrado si aún persisten dudas sobre si debe ser borrado. Si no puedes persuadir al bibliotecario, puedes intentar solicitar la restauración.
+
+Para solicitar la restauración agrega el nombre de la página en Wikipedia:Tablón de anuncios de los bibliotecarios/Portal/Archivo/Solicitudes de restauración/Actual e indica con claridad y concisión los motivos por los que solicitas la restauración. La solicitud permanecerá allí a la espera hasta que algún bibliotecario (distinto del que la borró) decida si procede.
+
+Las solicitudes serán revisadas cotidianamente por los bibliotecarios, por lo que no es necesario notificar a todos ellos acerca de cada solicitud. Sin embargo el usuario podrá notificar a un par de bibliotecarios de su preferencia sobre la solicitud cursada; el intento de notificar a numerosos bibliotecarios se considerará spam.
+
+La restauración no impide que el artículo pueda luego nominarse para una consulta de borrado.
+
+Si el borrado rápido se produjo aparentemente por error, cualquier bibliotecario puede restaurarlo inmediatamente, notificando luego al bibliotecario que realizó el borrado.
